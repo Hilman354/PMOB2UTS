@@ -29,4 +29,4 @@ Fitur-Fitur Aplikasi:
 4. Penyimpanan Lokal – Menyimpan data tugas secara lokal di perangkat atau browser.
 
 Screenshot Aplikasi:
-
+![WhatsApp Image 2024-11-23 at 19 58 34_0954212b](https://github.com/user-attachments/assets/fdc77861-531a-474f-9133-0605566295fe)
